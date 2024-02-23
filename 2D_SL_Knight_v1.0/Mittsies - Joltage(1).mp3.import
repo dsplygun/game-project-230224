@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d12pnv1ir8p7"
+path="res://.godot/imported/Mittsies - Joltage(1).mp3-0ba1f635909f5ef94172d826d8498b35.mp3str"
+
+[deps]
+
+source_file="res://2D_SL_Knight_v1.0/Mittsies - Joltage(1).mp3"
+dest_files=["res://.godot/imported/Mittsies - Joltage(1).mp3-0ba1f635909f5ef94172d826d8498b35.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
